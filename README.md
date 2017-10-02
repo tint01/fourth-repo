@@ -1,2 +1,2 @@
 # fourth-repo
-resolve the conflict!
+make change in branch 'new'
